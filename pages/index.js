@@ -13,14 +13,14 @@ function ProfileSidebar(propriedades) {
 }
 
 export default function Home() {
-  const usuarioAleatorio = 'omariosouto';
+  const usuarioAleatorio = 'rtomazini42';
   const pessoasFavoritas = [
     'juunegreiros',
     'omariosouto',
     'peas',
-    'rafaballerini',
-    'marcobrunodev',
-    'felipefialho'
+    'peixebabel',
+    'slackjeff',
+    'lucaslattari'
   ]
 
   return (
